@@ -1,0 +1,5 @@
+ 
+streamlit
+langchain-google-genai
+langchain-core
+protobuf<5,>=3.20
